@@ -1,0 +1,14 @@
+D:\mfa\bcalc\bcalc\bin\Debug\net8.0\bcalc.exe
+D:\mfa\bcalc\bcalc\bin\Debug\net8.0\bcalc.deps.json
+D:\mfa\bcalc\bcalc\bin\Debug\net8.0\bcalc.runtimeconfig.json
+D:\mfa\bcalc\bcalc\bin\Debug\net8.0\bcalc.dll
+D:\mfa\bcalc\bcalc\bin\Debug\net8.0\bcalc.pdb
+D:\mfa\bcalc\bcalc\obj\Debug\net8.0\bcalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\mfa\bcalc\bcalc\obj\Debug\net8.0\bcalc.AssemblyInfoInputs.cache
+D:\mfa\bcalc\bcalc\obj\Debug\net8.0\bcalc.AssemblyInfo.cs
+D:\mfa\bcalc\bcalc\obj\Debug\net8.0\bcalc.csproj.CoreCompileInputs.cache
+D:\mfa\bcalc\bcalc\obj\Debug\net8.0\bcalc.dll
+D:\mfa\bcalc\bcalc\obj\Debug\net8.0\refint\bcalc.dll
+D:\mfa\bcalc\bcalc\obj\Debug\net8.0\bcalc.pdb
+D:\mfa\bcalc\bcalc\obj\Debug\net8.0\bcalc.genruntimeconfig.cache
+D:\mfa\bcalc\bcalc\obj\Debug\net8.0\ref\bcalc.dll
