@@ -1,0 +1,14 @@
+D:\mfa\Arrays2\Arrays2\bin\Debug\net8.0\Arrays2.exe
+D:\mfa\Arrays2\Arrays2\bin\Debug\net8.0\Arrays2.deps.json
+D:\mfa\Arrays2\Arrays2\bin\Debug\net8.0\Arrays2.runtimeconfig.json
+D:\mfa\Arrays2\Arrays2\bin\Debug\net8.0\Arrays2.dll
+D:\mfa\Arrays2\Arrays2\bin\Debug\net8.0\Arrays2.pdb
+D:\mfa\Arrays2\Arrays2\obj\Debug\net8.0\Arrays2.GeneratedMSBuildEditorConfig.editorconfig
+D:\mfa\Arrays2\Arrays2\obj\Debug\net8.0\Arrays2.AssemblyInfoInputs.cache
+D:\mfa\Arrays2\Arrays2\obj\Debug\net8.0\Arrays2.AssemblyInfo.cs
+D:\mfa\Arrays2\Arrays2\obj\Debug\net8.0\Arrays2.csproj.CoreCompileInputs.cache
+D:\mfa\Arrays2\Arrays2\obj\Debug\net8.0\Arrays2.dll
+D:\mfa\Arrays2\Arrays2\obj\Debug\net8.0\refint\Arrays2.dll
+D:\mfa\Arrays2\Arrays2\obj\Debug\net8.0\Arrays2.pdb
+D:\mfa\Arrays2\Arrays2\obj\Debug\net8.0\Arrays2.genruntimeconfig.cache
+D:\mfa\Arrays2\Arrays2\obj\Debug\net8.0\ref\Arrays2.dll
